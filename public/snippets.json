@@ -1,0 +1,45 @@
+{
+  "snippets": [
+    {
+      "language": "html",
+      "code": "<br>",
+      "description": "Salto de línea"
+    },
+    {
+      "language": "html",
+      "code": "<h1>Título principal</h1>",
+      "description": "Encabezado de nivel 1"
+    },
+    {
+      "language": "css",
+      "code": "margin: 10px;",
+      "description": "Margen exterior"
+    },
+    {
+      "language": "css",
+      "code": "padding: 5px 10px;",
+      "description": "Relleno interior"
+    },
+    {
+      "language": "javascript",
+      "code": "console.log(\"Mensaje\");",
+      "description": "Imprimir en consola"
+    },
+    {
+      "language": "javascript",
+      "code": "let array = [1, 2, 3];",
+      "description": "Declarar un array"
+    },
+    {
+      "language": "python",
+      "code": "print(\"Hola, mundo!\")",
+      "description": "Imprimir en consola"
+    },
+    {
+      "language": "python",
+      "code": "for i in range(5):",
+      "description": "Bucle for"
+    }
+  ]
+}
+
